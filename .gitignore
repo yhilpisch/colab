@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+*.sublime-*
+
+# Model weights / large artifacts (store via Git LFS or download at runtime)
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+*.h5
+models/
+checkpoints/
+weights/
+
+# Datasets (usually downloaded)
+data/
+datasets/
+corpus/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Colab runtime artifacts
+/content/
+sample_data/
