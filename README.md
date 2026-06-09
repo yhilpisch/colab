@@ -21,6 +21,7 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 
 ## Notebooks
 
+- `00_hardware_accelerated_ml.ipynb` — Dramatic GPU speed-ups: Random Forest, K-Means, matrix multiplication, and MLP training (CPU vs T4 GPU).
 - `01_local_llm_colab_gpu.ipynb` — Download a small open-weight LLM (e.g. Qwen2.5-1.5B) and chat with it on a free T4 GPU.
 
 ## Disclaimer
