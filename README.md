@@ -2,6 +2,10 @@
 
 A collection of Google Colab use cases: free (or low-cost) GPU workflows, local LLM inference, training snippets, and more.
 
+<img src="https://theaiengineer.dev/tae_logo_gw_flatter.png" alt="TAE Logo" width="350" />
+
+&copy; Dr. Yves J. Hilpisch (The AI Engineer)<br>AI-Powered by Different LLMs.
+
 ## Structure
 
 | Path | Description |
@@ -19,6 +23,6 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 
 - `01_local_llm_colab_gpu.ipynb` — Download a small open-weight LLM (e.g. Qwen2.5-1.5B) and chat with it on a free T4 GPU.
 
-## License
+## Disclaimer
 
-&copy; Dr. Yves J. Hilpisch — The AI Engineer.
+This repository and its contents are provided solely for illustration and educational purposes. No guarantees or representations of any kind are given, express or implied, including but not limited to fitness for a particular purpose or non-infringement, to the extent permitted by law. Use at your own risk.
