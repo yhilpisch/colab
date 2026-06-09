@@ -23,6 +23,8 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 
 - `00_hardware_accelerated_ml.ipynb` — Dramatic GPU speed-ups: Random Forest, K-Means, matrix multiplication, and MLP training (CPU vs T4 GPU).
 - `01_local_llm_colab_gpu.ipynb` — Download a small open-weight LLM (e.g. Qwen2.5-1.5B) and chat with it on a free T4 GPU.
+- `02_stable_diffusion_gpu.ipynb` — Text-to-image generation with Stable Diffusion on a free T4 GPU, including step-count ablation and negative prompts.
+- `03_gpu_dataframes_cudf.ipynb` — GPU-accelerated pandas workflows with RAPIDS cuDF: groupby, merge, rolling window, and string filtering on synthetic data.
 
 ## Disclaimer
 
