@@ -72,3 +72,9 @@ secrets/
 # Colab runtime artifacts
 /content/
 sample_data/
+
+# Agent guidelines (local only)
+AGENTS.md
+
+# Design documents (local only)
+IDEAS.md
