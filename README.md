@@ -26,7 +26,7 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 - `02_stable_diffusion_gpu.ipynb` — Text-to-image generation with Stable Diffusion on a free T4 GPU, including step-count ablation and negative prompts.
 - `03_gpu_dataframes_cudf.ipynb` — GPU-accelerated pandas workflows with RAPIDS cuDF: groupby, merge, rolling window, and string filtering on synthetic data.
 - `04_yoctoGPT_walden_char.ipynb` — Clone yoctoGPT, download Thoreau's *Walden*, and train a tiny character-level GPT: quick CPU run vs GPU-accelerated run with side-by-side sampling.
-- `10_coding_llm_cli.ipynb` — Serve `Qwen2.5-Coder-7B-Instruct` on a free T4 GPU with an OpenAI-compatible API, expose it via `cloudflared`, and use it from the command line with curl, the OpenAI Python client, and the aider coding agent.
+- `10_coding_llm_cli.ipynb` — Serve `qwen2.5-coder:7b` with Ollama on a free T4 GPU, expose the OpenAI-compatible API via `cloudflared`, and use it from the command line with curl, the OpenAI Python client, and the aider coding agent.
 
 ## Disclaimer
 
