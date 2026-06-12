@@ -57,6 +57,8 @@ Our connected training landscape includes:
 
 We continuously integrate modern tools and technologies, from Python and open-source data science libraries to GPUs, CUDA, cloud platforms, GenAI, local LLMs, AI agents, and advanced quantitative workflows.
 
+We use and leverage Google Colab throughout our programs to make modern compute workflows directly executable in the browser.
+
 This repository reflects our mission: to make modern ML, AI, and quant finance workflows practical, executable, and accessible.
 
 ## Disclaimer
