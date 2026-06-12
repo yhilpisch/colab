@@ -1,12 +1,14 @@
+<img src="https://hilpisch.com/tpq_logo_bic.png" alt="TPQ Logo" width="350" align="right" />
+
+<br clear="right" />
+
 # colab — GPU-Powered Notebooks
 
 A collection of Google Colab use cases: free (or low-cost) GPU workflows, local LLM inference, training snippets, and more.
 
-<img src="https://hilpisch.com/tpq_logo_bic.png" alt="TPQ Logo" width="350" />
-
 &copy; Dr. Yves J. Hilpisch (The AI Engineer)<br>AI-Powered by Different LLMs.
 
-<img src="https://hilpisch.com/tpq_colab_small.png" alt="GPU-powered Google Colab learning path" width="60%" />
+<img src="https://hilpisch.com/colab_viz_small.png" alt="GPU-powered Google Colab learning path" width="70%" />
 
 ## Structure
 
