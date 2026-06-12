@@ -21,12 +21,26 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 
 ## Notebooks
 
-- `00_hardware_accelerated_ml.ipynb` — Dramatic GPU speed-ups: Random Forest, K-Means, matrix multiplication, and MLP training (CPU vs T4 GPU).
-- `01_local_llm_colab_gpu.ipynb` — Download a small open-weight LLM (e.g. Qwen2.5-1.5B) and chat with it on a free T4 GPU.
-- `02_stable_diffusion_gpu.ipynb` — Text-to-image generation with Stable Diffusion on a free T4 GPU, including step-count ablation and negative prompts.
-- `03_gpu_dataframes_cudf.ipynb` — GPU-accelerated pandas workflows with RAPIDS cuDF: groupby, merge, rolling window, and string filtering on synthetic data.
-- `04_yoctoGPT_walden_char.ipynb` — Clone yoctoGPT, download Thoreau's *Walden*, and train a tiny character-level GPT: quick CPU run vs GPU-accelerated run with side-by-side sampling.
-- `10_coding_llm_cli.ipynb` — Serve `qwen2.5-coder:7b` with Ollama on a free T4 GPU, expose the OpenAI-compatible API via `cloudflared`, and use it from the command line with curl, the OpenAI Python client, and the aider coding agent.
+### Session 1 — GPU-Powered ML, Data, and Quant Finance
+
+- `01_hardware_accelerated_ml.ipynb` — Dramatic GPU speed-ups: Random Forest, K-Means, matrix multiplication, and MLP training (CPU vs T4 GPU).
+- `02_gpu_dataframes_cudf.ipynb` — GPU-accelerated pandas workflows with RAPIDS cuDF: groupby, merge, rolling window, and string filtering on synthetic data.
+- `03_gpu_monte_carlo_finance.ipynb` — Monte Carlo option pricing, barrier options, and Greeks on CPU vs GPU.
+- `04_gpu_monte_carlo_calibration.ipynb` — GPU-accelerated Monte Carlo calibration for synthetic option prices.
+
+### Session 2 — Deep Learning and Generative AI on Colab
+
+- `05_cnn_image_classification.ipynb` — Train a small CNN on Fashion-MNIST with CPU vs GPU timing.
+- `06_transformer_timeseries.ipynb` — Train a small Transformer for one-step-ahead synthetic time-series forecasting.
+- `07_local_llm_colab_gpu.ipynb` — Download a small open-weight LLM and chat with it on a free T4 GPU.
+- `08_stable_diffusion_gpu.ipynb` — Text-to-image generation with Stable Diffusion on a free T4 GPU.
+
+### Session 3 — AI Engineering Workflows
+
+- `09_yoctoGPT_walden_char.ipynb` — Clone yoctoGPT, download Thoreau's *Walden*, and train a tiny character-level GPT.
+- `10_lora_finetuning.ipynb` — Adapt a small LLM with LoRA fine-tuning on a free T4 GPU.
+- `11_rag_faiss.ipynb` — Build a retrieval-augmented generation workflow with embeddings and FAISS.
+- `12_coding_llm_cli.ipynb` — Serve `qwen2.5-coder:7b` with Ollama, expose the OpenAI-compatible API via `cloudflared`, and use it with curl, the OpenAI Python client, and aider.
 
 ## Disclaimer
 
