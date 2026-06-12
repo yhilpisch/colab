@@ -2,7 +2,7 @@
 
 A collection of Google Colab use cases: free (or low-cost) GPU workflows, local LLM inference, training snippets, and more.
 
-<img src="https://theaiengineer.dev/tae_logo_gw_flatter.png" alt="TAE Logo" width="350" />
+<img src="https://hilpisch.com/tpq_logo_bic.png" alt="TPQ Logo" width="350" />
 
 &copy; Dr. Yves J. Hilpisch (The AI Engineer)<br>AI-Powered by Different LLMs.
 
