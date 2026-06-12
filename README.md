@@ -65,4 +65,4 @@ This repository reflects our mission: to make modern ML, AI, and quant finance w
 
 ## Disclaimer
 
-This repository and its contents are provided solely for illustration and educational purposes. No guarantees or representations of any kind are given, express or implied, including but not limited to fitness for a particular purpose or non-infringement, to the extent permitted by law. Use at your own risk.
+This repository and its contents are provided solely for illustration and educational purposes. The Python Quants GmbH is not affiliated with, endorsed by, or sponsored by Google, and receives no compensation from Google for creating or sharing this content. No guarantees or representations of any kind are given, express or implied, including but not limited to fitness for a particular purpose or non-infringement, to the extent permitted by law. Use at your own risk.
