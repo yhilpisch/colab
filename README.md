@@ -44,6 +44,21 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 - `11_rag_faiss.ipynb` — Build a retrieval-augmented generation workflow with embeddings and FAISS.
 - `12_coding_llm_cli.ipynb` — Serve `qwen2.5-coder:7b` with Ollama, expose the OpenAI-compatible API via `cloudflared`, and use it with curl, the OpenAI Python client, and aider.
 
+## About The Python Quants
+
+[The Python Quants GmbH](https://tpq.io) provides code-first online training in Python, data science, artificial intelligence, quantitative finance, algorithmic trading, and crypto technologies.
+
+Our connected training landscape includes:
+
+* **The Data Scientist** ([thedatascientist.dev](https://thedatascientist.dev)): Python, data science, machine learning, and portfolio projects.
+* **Certificate in Python for Finance** ([cpf.tpq.io](https://cpf.tpq.io)): quant finance, financial data science, asset management, algorithmic trading, derivatives analytics, and AI for finance.
+* **The AI Engineer** ([theaiengineer.dev](https://theaiengineer.dev)): production-grade AI engineering, LLM applications, agents, automation, and deployment.
+* **The Crypto Engineer** ([thecryptoengineer.dev](https://thecryptoengineer.dev)): Bitcoin, blockchain, crypto technologies, digital assets, and decentralized finance.
+
+We continuously integrate modern tools and technologies, from Python and open-source data science libraries to GPUs, CUDA, cloud platforms, GenAI, local LLMs, AI agents, and advanced quantitative workflows.
+
+This repository reflects our mission: to make modern ML, AI, and quant finance workflows practical, executable, and accessible.
+
 ## Disclaimer
 
 This repository and its contents are provided solely for illustration and educational purposes. No guarantees or representations of any kind are given, express or implied, including but not limited to fitness for a particular purpose or non-infringement, to the extent permitted by law. Use at your own risk.
