@@ -6,6 +6,8 @@ A collection of Google Colab use cases: free (or low-cost) GPU workflows, local 
 
 &copy; Dr. Yves J. Hilpisch (The AI Engineer)<br>AI-Powered by Different LLMs.
 
+<img src="https://hilpisch.com/tpq_colab_small.png" alt="GPU-powered Google Colab learning path" width="60%" />
+
 ## Structure
 
 | Path | Description |
